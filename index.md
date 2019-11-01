@@ -189,12 +189,4 @@ const payload = {
 
 ## k8s cheatsheets
 
-### kubectl edit pvc 
-
-`kubectl edit persistentvolumeclaims`
-
-### kubectl get cs
-
-`kubectl get componentstatus`
-
 ## k8s 术语
